@@ -1,0 +1,24 @@
+{
+  "name": "chat.io",
+  "version": "1.0.0",
+  "description": "test chat with websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Al-vallon/chat.io.git"
+  },
+  "author": "A.vallon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Al-vallon/chat.io/issues"
+  },
+  "homepage": "https://github.com/Al-vallon/chat.io#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "socket.io": "^4.7.2"
+  }
+}
