@@ -18,8 +18,8 @@ Clone the repository:
 
 ```bash
 Copier le code
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/Al-vallon/chat.io
+cd chat.io
 ```
 Install dependencies:
 
